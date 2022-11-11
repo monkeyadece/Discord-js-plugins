@@ -1,2 +1,2 @@
-# Discord-js-plugins
+# Discord-js-Themes
 A test
